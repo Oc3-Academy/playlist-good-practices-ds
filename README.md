@@ -6,3 +6,4 @@ Here you can find all material for this specific playlist
 
 - `mkdocs new .`
 - `theme: name: material`
+- `mkdocs build`
