@@ -1,2 +1,14 @@
-# playlist-good-practices-ds
-Here you can find all material for this specific playlist
+# Estrutura
+
+- data
+- config
+- models
+- notebooks
+- src:
+    - plots
+    - training
+    - validating
+    - evaluating
+    ...
+- tests
+
