@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "==6.15.1"
+pytorch-lightning = "==1.6.5"
+jupyter = "==1.0.0"
+torchvision = "==0.13.0"
+matplotlib = "==3.5.2"
+pandas = "==1.4.3"
+seaborn = "==0.11.2"
+yellowbrick = "==1.4"
+black = "*"
+mkdocs-material = "==8.3.9"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
